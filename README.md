@@ -15,6 +15,17 @@ host: x86_64-unknown-linux-gnu
 release: 1.74.1
 LLVM version: 17.0.4
 ```
+Rust Nightly:
+```
+rustc 1.77.0-nightly (3d0e6bed6 2023-12-21)
+binary: rustc
+commit-hash: 3d0e6bed600c0175628e96f1118293cf44fb97bd
+commit-date: 2023-12-21
+host: x86_64-unknown-linux-gnu
+release: 1.77.0-nightly
+LLVM version: 17.0.6
+```
+System:
 ```
 CPU: AMD Ryzen 5 4500U
 OS: Ubuntu 22.04.3 LTS
